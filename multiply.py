@@ -1,4 +1,4 @@
-def sum(a, b):
+def mul(a, b):
     return a * b
-result =sum(3,4)
+result =mul(3,4)
 print(result)
